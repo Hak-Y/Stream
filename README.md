@@ -1,6 +1,6 @@
 # Stream
 
-This is stream src, which is run in competition.
+This is stream src, which is run in competition. (ubuntu 18.04)
 
 In files, 'image_pub.py' is only test for camcorder. What you are actually using is 'stream_client.py and stream_server.py'
 
