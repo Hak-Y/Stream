@@ -15,6 +15,9 @@ It is also run visual studio code, but if you want to use visual studio code, yo
 
 
 
+
+
+
 Error Analysis
 
 Most errors are due to either not installing modules or Ubuntu versions. you verify your error code, and install module.
